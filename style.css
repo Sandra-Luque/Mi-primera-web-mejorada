@@ -1,0 +1,17 @@
+
+body div{
+	height: 100%;
+	width: 50%;
+	background: #2baaa6;
+	position: relative;
+	left: 500px;
+}
+.imagen{
+	width: 100px;
+	height: 100px;
+	padding: 2em;
+}
+div img{
+border: 2px solid #36d5d0;
+
+}
